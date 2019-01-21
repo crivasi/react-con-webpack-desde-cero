@@ -1,6 +1,6 @@
 ## Configurar proyecto con react, webpack y babel desde cero
 
-* Este proyecto está terminando, por lo tanto no se detalla en cada paso el código que se deba escribir tanto en los componentes como en los demás archivos
+* Este proyecto está terminado, por lo tanto no se detalla en cada paso el código que se deba escribir tanto en los componentes como en los demás archivos
 
 * Este proyecto tiene dos componentes, uno contenedor y otro de presentación
 
