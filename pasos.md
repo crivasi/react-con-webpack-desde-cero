@@ -10,7 +10,7 @@ Crear la carpeta del proyecto ej: webpack-react-tutorial
 Crear una carpeta src dentro
 `mkdir -p src`
 
-#### Paso 2.
+### Paso 2.
 inicializar npm con `npm init -y`, el `-y` es para que no pregunte nada.
 
 ### Paso 3.
